@@ -32,11 +32,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Highest number of dedicated projects
   - Strong primary focus
   - Common combinations with Infrastructure and Security categories
-- **Notable Projects**:
-  - AgentKit Aave
-  - AutonomousYield
-  - CopyTrade.AI
-  - DeFi Guru
+- **Relevant projects**:
+  - [AgentKit Aave](https://ethglobal.com/showcase/agentkit-aave-yarc0) - Added Aave actions support to the AgentKit [PR Contribution]
+  - [AutonomousYield](https://ethglobal.com/showcase/autonomousyield-n4xu4) - A decentralized application for optimizing yield farming strategies across multiple blockchains using Starknet, Covalent, and Nillion
+  - [LiquefAI](https://ethglobal.com/showcase/liquefai-98k3g) - AI based DEX aggregator - running Coinbase AgentKit, Graph and Uniswap smart router to do advanced swaps
+  - [DeFi Guru](https://ethglobal.com/showcase/defi-guru-wo028) - AI-powered DeFi assistant for optimizing trading and yield strategies
 
 ### Social & Community Engagement
 - **Total Projects**: 140
@@ -45,11 +45,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Most versatile category
   - Often combines with other domains
   - High secondary usage rate
-- **Notable Projects**:
-  - SocioAgent
-  - Community Host
-  - Web3 AI Librarian
-  - Social Interaction Agents
+- **Relevant projects**:
+  - [SocioAgent](https://ethglobal.com/showcase/socioagent-fd2ja) - Personal on-chain agent across socials. Connect your wallet with Twitter, create templates, perform transactions using social IDs, and monitor portfolios seamlessly
+  - [StreamAds](https://ethglobal.com/showcase/streamads-f0844) - Blockchain-powered tweet promotion platform that ensures transparency, automation, and fair rewards for influencers & communities
+  - [poink chat](https://ethglobal.com/showcase/poink-chat-3t56g) - All-in-one interface unifying DeFi and onchain activities across EVM chains into a single interface along with a Twitter agent
+  - [Tsukuyomi AI agent](https://ethglobal.com/showcase/tsukuyomi-ai-agent-bneqr) - Social Awareness AI Agent straight out of the AI Apocalypto Manga
 
 ### Infrastructure & Developer Tools
 - **Total Projects**: 129
@@ -58,11 +58,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - High dedication rate
   - Essential supporting role
   - Strong technical focus
-- **Notable Projects**:
-  - Agenta
-  - ChainMindOS
-  - DevDrops
-  - BlockBlend
+- **Relevant projects**:
+  - [Agenta](https://ethglobal.com/showcase/agenta-9345m) - Understand your users with Agenta's intelligent insights. Just enter a smart contract address, select the agents you need, and get instant, actionable insights about your users
+  - [AIxScan](https://ethglobal.com/showcase/aixscan-ym00v) - AI-Powered Multichain Blockchain Explorer and Agent Framework
+  - [CDP Documentation](https://ethglobal.com/showcase/cdp-documentation-9vdfs) - Documentation created for Agentic Hackathon, improving AgentKit documentation
+  - [Robot Clickin](https://ethglobal.com/showcase/robot-clickin-crn8i) - AI AB Testing Platform using Blockchain to revolutionize AB Testing
 
 ### NFTs & Gaming
 - **Total Projects**: 108
@@ -71,11 +71,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Strong gaming focus
   - NFT utility applications
   - Interactive experiences
-- **Notable Projects**:
-  - Master of Fantasy
-  - PokéNFC
-  - RoboAgentic Battle
-  - Cryptopia
+- **Relevant projects**:
+  - [SuriVerse](https://ethglobal.com/showcase/suriverse-nj5ru) - AI-powered MMORPG built with RPGJS and Vue, where players interact with AI Agents powered by Coinbase AgentKit
+  - [KittyQuest](https://ethglobal.com/showcase/kittyquest-wuj9r) - Web3 crowdfunding app aimed at raising money for real cats
+  - [Save Rob](https://ethglobal.com/showcase/save-rob-sitmb) - App to save Video content creators from having their video scraped and monetized by AI
+  - [Copilot Extension](https://ethglobal.com/showcase/copilot-extension-6stic) - Creating a vision crypto copilot, your friend in the trenches
 
 ### Security & Compliance
 - **Total Projects**: 98
@@ -84,11 +84,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Often a secondary focus
   - Critical supporting role
   - Integration with other categories
-- **Notable Projects**:
-  - ETHGuardian
-  - SmartGuard AI Audits
-  - ScamBuzzer
-  - SendSecure
+- **Relevant projects**:
+  - [Zero-X](https://ethglobal.com/showcase/zero-x-ry804) - AI shill that needs to be convinced your project isn't mid, providing comprehensive security analysis
+  - [Eigen Vault](https://ethglobal.com/showcase/eigen-vault-o1u16) - Secure AI-powered document storage and retrieval system integrated with Telegram
+  - [Wallet Assist](https://ethglobal.com/showcase/wallet-assist-4ky9c) - Helpful in assisting wallets and makes UX seamless and much better
+  - [AvsAgent](https://ethglobal.com/showcase/avsagent-og0ro) - Verifiable AI Agent using EigenLayer AVS to verify AI Agents' prompts responses
 
 ### DAO & Governance
 - **Total Projects**: 46
@@ -97,11 +97,11 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Focused implementations
   - High primary usage rate
   - Organizational focus
-- **Notable Projects**:
-  - AutoDAO
-  - DAOCouncil
-  - Synapse Treasury
-  - AI DAO Managers
+- **Relevant projects**:
+  - [DAO Wizard](https://ethglobal.com/showcase/dao-wizard-6afqi) - Simplifies DAO creation and governance with AI-driven automation using AgentKit-powered Telegram bots
+  - [ASAP](https://ethglobal.com/showcase/asap-1o86x) - Protocol leverages autonomous on-chain AI agents to revolutionize DAO governance
+  - [Nano strategy](https://ethglobal.com/showcase/nano-strategy-vq4fy) - Helps deploy investment funds for ERC-20 tokens
+  - [aoxbt](https://ethglobal.com/showcase/aoxbt-vj19u) - Agent swarm orchestration that hunts for alphas and executes trades
 
 ### Other
 - **Total Projects**: 9
@@ -110,10 +110,10 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - Unique use cases
   - No secondary categorization
   - Innovative approaches
-- **Notable Projects**:
-  - Medichain
-  - AI Hedge Fund
-  - Universal Recruiter
+- **Relevant projects**:
+  - [Medichain](https://ethglobal.com/showcase/medichain-w99k5) - Decentralized, AI-powered health platform using EigenLayer for data verification
+  - [docs.ai](https://ethglobal.com/showcase/docs-ai-vki62) - Transforms how you read, process, and act on documents with AI-powered agents
+  - [Rizzed Analyser](https://ethglobal.com/showcase/rizzed-analyser-r4sf3) - AI-powered cryptocurrency data visualization platform for market analysis
 
 ## Cross-Category Analysis
 
