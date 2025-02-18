@@ -116,21 +116,8 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
   - [Rizzed Analyser](https://ethglobal.com/showcase/rizzed-analyser-r4sf3) - AI-powered cryptocurrency data visualization platform for market analysis
 
 ## Cross-Category Analysis
+Projects can belong to multiple categories, but their assigned categories are arranged in order of relevance to the project description.
 
-### Common Combinations
-1. DeFi + Security
-   - Focus on secure financial operations
-   - Risk management and monitoring
-
-2. Social + Infrastructure
-   - Community tools and platforms
-   - Social coordination infrastructure
-
-3. NFT + Social
-   - Community-driven NFT projects
-   - Social gaming experiences
-
-### Category Evolution Trends
 1. **Primary Categories**
    - DeFi shows strongest primary usage (84.3%)
    - Security shows lowest primary usage (41.8%)
@@ -142,20 +129,4 @@ Analysis of 533 projects from the ETHGlobal Agents hackathon reveals strong tren
    - Indicates significant cross-domain innovation
 
 ## Conclusions
-
-1. **Market Focus**
-   - Clear dominance of DeFi applications
-   - Strong foundation in infrastructure
-   - Growing social and community aspect
-
-2. **Integration Patterns**
-   - High degree of specialization
-   - Strategic category combinations
-   - Security as a supporting feature
-
-3. **Innovation Trends**
-   - AI agents primarily in financial applications
-   - Strong tooling and infrastructure development
-   - Emerging social and community use cases
-
 This analysis suggests that while DeFi remains the primary use case for AI agents in the Ethereum ecosystem, there's significant innovation happening across all categories, with particular strength in infrastructure development and social applications. 
