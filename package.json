@@ -1,0 +1,19 @@
+{
+  "name": "eth-global-analyzer",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.30",
+    "@langchain/core": "^0.3.40",
+    "@types/node": "^22.13.4",
+    "cheerio": "^1.0.0",
+    "langchain": "^0.3.15",
+    "node-fetch": "^3.3.2"
+  }
+}

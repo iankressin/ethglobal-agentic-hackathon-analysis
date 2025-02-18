@@ -1,0 +1,8 @@
+---
+description: Bun
+globs: 
+---
+
+# Bun usage
+
+I'm using bun for this project, so every installation, script, etc, should be run using bun.
